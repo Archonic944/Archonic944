@@ -15,5 +15,3 @@ I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fa
 ## 📫 Connect
 
 Find all my stuff here: [linktr.ee/archonic](https://linktr.ee/archonic)
-
-[linktr.ee/archonic](https://linktr.ee/archonic)
