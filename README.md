@@ -1,16 +1,19 @@
-## Hi there 👋
+# archonic944
 
-<!--
-**Archonic944/Archonic944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableton, FMOD).
 
-Here are some ideas to get you started:
+**Projects:**
+- [midigym](https://github.com/Archonic944/midigym): robust piano chord typing test
+- [metro](https://github.com/Archonic944/metro): cross platform globally phase-locked CLI metronome
+- [ShrinkENG](https://github.com/Archonic944/ShrinkENG): english language bytecode generation
+- [Supersonic](https://github.com/Archonic944/Supersonic): experimental audio based game to be played with friends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Fun Fact
+
+I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fans say.
+
+## 📫 Connect
+
+Find all my stuff here: [linktr.ee/archonic](https://linktr.ee/archonic)
+
+[linktr.ee/archonic](https://linktr.ee/archonic)
