@@ -16,5 +16,8 @@ I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fa
 
 Find all my stuff here: [linktr.ee/archonic](https://linktr.ee/archonic)
 
-> "I go on working for the same reason a hen goes on laying eggs."
-> \- H. L. Mencken
+---------
+
+<img src="https://quotebanner.vercel.app/I go on working for the same reason a hen goes on laying eggs. - H. L. Mencken.jpg" style="width: 50%;">
+
+*Image served by my very own service, [QuoteBanner](https://github.com/Archonic944/QuoteImageGenerator)*
