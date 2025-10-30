@@ -1,4 +1,4 @@
-# archonic944
+# archonic
 
 Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableton, FMOD).
 
@@ -15,3 +15,6 @@ I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fa
 ## 📫 Connect
 
 Find all my stuff here: [linktr.ee/archonic](https://linktr.ee/archonic)
+
+> "I go on working for the same reason a hen goes on laying eggs."
+> \- H. L. Mencken
