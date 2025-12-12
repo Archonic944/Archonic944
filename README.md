@@ -4,6 +4,7 @@ Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableto
 
 **Projects:**
 - [midigym](https://github.com/Archonic944/midigym): robust piano chord typing test
+- [pmdas.asm](https://github.com/Archonic944/csc215/blob/main/presentations/expression_parser.md): Mathematical expression parser in 8080 assembly
 - [metro](https://github.com/Archonic944/metro): cross platform globally phase-locked CLI metronome
 - [ShrinkENG](https://github.com/Archonic944/ShrinkENG): english language bytecode generation
 - [Supersonic](https://github.com/Archonic944/Supersonic): experimental audio based game to be played with friends
