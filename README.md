@@ -8,6 +8,8 @@ Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableto
 - [metro](https://github.com/Archonic944/metro): cross platform globally phase-locked CLI metronome
 - [ShrinkENG](https://github.com/Archonic944/ShrinkENG): english language bytecode generation
 - [Supersonic](https://github.com/Archonic944/Supersonic): experimental audio based game to be played with friends
+- [CELL-027](https://github.com/Archonic944/cell-027): a really cool PICO-8 game
+- [bidlater](https://github.com/Archonic944/bidlater): a hypothetical eBay sniper meant to showcase my frontend design skills
 
 ## 💬 Fun Fact
 
