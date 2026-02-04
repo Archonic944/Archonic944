@@ -15,10 +15,6 @@ Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableto
 
 I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fans say.
 
-## 📫 Connect
-
-Find all my stuff here: [linktr.ee/archonic](https://linktr.ee/archonic)
-
 ---------
 
 <img src="https://quotebanner.vercel.app/I go on working for the same reason a hen goes on laying eggs. - H. L. Mencken.jpg" style="width: 50%;">
