@@ -11,12 +11,6 @@ Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableto
 - [CELL-027](https://github.com/Archonic944/cell-027): a really cool PICO-8 game
 - [bidlater](https://github.com/Archonic944/bidlater): a hypothetical eBay sniper meant to showcase my frontend design skills
 
-## 💬 Fun Fact
-
-I will defend JetBrains IDEs to the end, no matter what VSCode, Vim, or Emacs fans say.
-
----------
-
 <img src="https://quotebanner.vercel.app/I go on working for the same reason a hen goes on laying eggs. - H. L. Mencken.jpg" style="width: 50%;">
 
 *Image served by my very own service, [QuoteBanner](https://github.com/Archonic944/QuoteImageGenerator)*
