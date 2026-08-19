@@ -2,6 +2,8 @@
 
 Hello! I am a student dev into Java, Pico-8, Godot (C#), and music/sound (Ableton, FMOD).
 
+See my website here: https://gabe.so
+
 **Projects:**
 - [midigym](https://github.com/Archonic944/midigym): robust piano chord typing test
 - [pmdas.asm](https://github.com/Archonic944/csc223/blob/main/presentations/expression_parser.md): Mathematical expression parser in 8080 assembly
