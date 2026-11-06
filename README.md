@@ -11,7 +11,6 @@ See my website here: https://gabe.so
 - [ShrinkENG](https://github.com/Archonic944/ShrinkENG): english language bytecode generation
 - [Supersonic](https://github.com/Archonic944/Supersonic): experimental audio based game to be played with friends
 - [CELL-027](https://github.com/Archonic944/cell-027): a really cool PICO-8 game
-- [bidlater](https://github.com/Archonic944/bidlater): a hypothetical eBay sniper meant to showcase my frontend design skills
 
 <img src="https://quotebanner.vercel.app/I go on working for the same reason a hen goes on laying eggs. - H. L. Mencken.jpg" style="width: 50%;">
 
