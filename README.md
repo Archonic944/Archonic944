@@ -11,6 +11,7 @@ See my website here: https://gabe.so
 - [ShrinkENG](https://github.com/Archonic944/ShrinkENG): english language bytecode generation
 - [Supersonic](https://github.com/Archonic944/Supersonic): experimental audio based game to be played with friends
 - [CELL-027](https://github.com/Archonic944/cell-027): a really cool PICO-8 game
+- [PocketCane](https://github.com/Archonic944/PocketCane): iPhone app for blind people that uses LiDAR and haptics
 
 <img src="https://quotebanner.vercel.app/I go on working for the same reason a hen goes on laying eggs. - H. L. Mencken.jpg" style="width: 50%;">
 
